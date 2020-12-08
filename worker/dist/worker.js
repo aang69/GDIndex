@@ -3,13 +3,13 @@
 		default_root_id: 'root',
 		client_id: '202264815644.apps.googleusercontent.com',
 		client_secret: 'X4Z3ca8xfWDb1Voo-F9a7ZxJ',
-		refresh_token: '',
+		refresh_token: '1//04q2aZPF1FCBGCgYIARAAGAQSNwF-L9IrPuUsYOLw6mCbUy2QM7P-iXSAZVbCjDA8ryLjjkbT5kg8qRfJOiUvwJRu1Sj0CiMFhqw',
 		service_account: false,
 		service_account_json: {},
-		auth: false,
-		user: '',
-		pass: '',
-		upload: false,
+		auth: true,
+		user: 'ilhamhidayat30',
+		pass: 'ilhamhidayat73809602',
+		upload: true,
 		lite: false
 	};
 (function () {
